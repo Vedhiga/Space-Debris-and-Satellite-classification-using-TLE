@@ -41,8 +41,12 @@ submitted to the All India Technical Conference 2025.
 ## 🖼Sample Output
 
 Confusion Matrix :
+
 <img width="815" height="683" alt="image" src="https://github.com/user-attachments/assets/fe3d1450-2cc6-46ea-9bb4-3ad874ff3760" />
+
+
 Feature Importance : 
+
 <img width="834" height="793" alt="image" src="https://github.com/user-attachments/assets/5dcdf2a8-b1be-4f2e-bf92-a9c2fcb480c7" />
 
 
