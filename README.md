@@ -50,7 +50,7 @@ Feature Importance :
 The complete code and dataset are available in this repository.  
 You can run the notebook directly in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/drive/13iTZWhPVeJsDdRiJGYCONtQYVeDlCsr0?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13iTZWhPVeJsDdRiJGYCONtQYVeDlCsr0?usp=sharing)
 
 
 ## Acknowledgement
